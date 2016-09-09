@@ -1,5 +1,3 @@
-[![](https://circleci.com/gh/jkohrman/docker-interactive.svg?style=shield&circle-token=ef744754c3f7aa46c0bde06db3f25b0d6e52031c)](https://circleci.com/gh/jkohrman/docker-interactive "View the current build status") [![](https://images.microbadger.com/badges/version/jkohrman/docker-interactive.svg)](http://microbadger.com/images/jkohrman/docker-interactive "") [![](https://images.microbadger.com/badges/image/jkohrman/docker-interactive.svg)](http://microbadger.com/images/jkohrman/docker-interactive "")
-
 # Docker Interactive Tutorial  
 
 This is a fork of the [*previous*](https://github.com/dhrp/docker-tutorial) official Docker interative tutorial.  
